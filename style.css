@@ -1,0 +1,27 @@
+.top-part h4{
+    color: orangered;
+}
+.top-heading{
+    color: green;
+}
+.top-part h1{
+    font-size: 70px;
+}
+.top-part p{
+    font-size: 20px;
+}
+.heading{
+    margin-top: 50px;
+}
+.image img{
+    width: 660px;
+}
+.button{
+    background-color: rgb(36, 196, 103);
+    width: 180px;
+    padding: 10px;
+    color: white;
+    border-radius: 25px;
+    border: none;
+    font-size: 20px;
+}

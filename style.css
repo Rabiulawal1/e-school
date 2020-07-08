@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&family=Roboto:wght@500&display=swap');
 
+body{
+    padding: 0;
+    margin: 0;
+}
 
 .logo{
     margin-top: 20px;
@@ -92,6 +96,12 @@
 .online-course .card-deck .card img{
     width: 317px;
     margin-top: 50px;
+}
+.online-course h2{
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 800;
+    font-size: 40px;
 }
 .online-course .card-deck{
     padding: 0px;
@@ -193,4 +203,7 @@ footer{
 .card-footer .all i{
     height: 100px;
 }
-
+.container-fluid{
+    width: 100%;
+    margin-bottom: -200px;
+}

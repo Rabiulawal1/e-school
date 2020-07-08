@@ -73,6 +73,7 @@
     font-size: 18px;
     font-family: Roboto, sans-serif;
     float: left;
+    margin-top: 30px;
 }
 .container{
     margin-bottom: 100px;
@@ -175,3 +176,21 @@ footer{
     text-align: center;
     margin-top: 100px;
 }
+.card-footer .all {
+    display: flex;
+    margin-bottom: -100px;
+}
+.card-footer .all .left,
+.card-footer .all .right{
+    display: flex;
+}
+.card-footer .all .right{
+    margin-left: 20px;
+}
+.card-footer .all p{
+    margin-left: 5px;
+}
+.card-footer .all i{
+    height: 100px;
+}
+
